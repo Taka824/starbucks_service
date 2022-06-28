@@ -39,6 +39,10 @@
 画像遷移図<br>
 https://www.figma.com/file/sl8yOWOzCBH5kUXluR0dv8/%E3%82%B9%E3%82%BF%E3%83%90%E3%83%91%E3%83%83%E3%83%89?node-id=0%3A1
 <br>
+ER図追加<br>
+https://app.diagrams.net/#HTaka824%2Fgit_tutorial%2Fmain%2FUntitled%20Diagram.drawio
+<br>
+
 予定<br>
 6/26〜6/30  ER図 画像遷移図 技術調査<br>
 7/1〜7/31 実装一段階目終了<br>
