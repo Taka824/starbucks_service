@@ -40,7 +40,7 @@
 https://www.figma.com/file/sl8yOWOzCBH5kUXluR0dv8/%E3%82%B9%E3%82%BF%E3%83%90%E3%83%91%E3%83%83%E3%83%89?node-id=0%3A1
 <br>
 ER図追加<br>
-![2022-06-28 18 58のイメージ](https://user-images.githubusercontent.com/99113171/176327638-c4d8e0ff-2e3c-437a-9e21-4f7b3775434a.jpg)
+![2022-06-30 15 12のイメージ](https://user-images.githubusercontent.com/99113171/176629501-d051ed3b-9296-48c9-a70b-8ede347325c3.jpg)
 <br>
 
 予定<br>
